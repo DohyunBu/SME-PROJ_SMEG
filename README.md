@@ -1,5 +1,5 @@
 # SMILEY
-[발표자료_SMEG](발표자료_SMEG.pptx)
+[발표자료_SMEG](발표자료_SMEG.zip)
 [시연영상_SMEG](https://github.com/DohyunBu/SMILEY/raw/main/발표자료/발표영상_SMEG.mp4)
 ![발표자료_SMEG_페이지](https://github.com/DohyunBu/SMILEY/raw/main/발표자료/발표자료_SMEG_페이지_01.jpg)
 ![발표자료_SMEG_페이지](https://github.com/DohyunBu/SMILEY/raw/main/발표자료/발표자료_SMEG_페이지_02.jpg)
